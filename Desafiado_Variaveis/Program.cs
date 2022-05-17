@@ -154,7 +154,7 @@ void exercicio9()
 //Exercicio 10
 Console.WriteLine("Exercicio 10");
 Console.WriteLine("Os exercicios que não possuem entrada de dados pelo usuario são: 1, 2 e 3");
-Console.WriteLine("Aqui abaixo estarão estes exercícios desenvolvidos dinamicamente:");
+//vou separar em tres projetos, ex1Dinamic, ex2Dinamic e ex3Dinamic
 
 ex1Dinamic();
 
